@@ -1,4 +1,4 @@
-# Reanted Bike Count Regression Report
+# Rented Bike Count Regression Report
 
 This report outlines the steps taken to preprocess data, analyze features, and apply various regression techniques to predict bike rental counts. The goal is to understand the impact of different features and models on the prediction accuracy.
 
